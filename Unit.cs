@@ -9,7 +9,7 @@ namespace Homework_Class
         private float _health;
         private float _armor;
         public string Name { get; }
-        public float Health { get => _health; set => _health = value; }
+        public float Health => _health;
         public int Damage { get; } = 5;
         public float Armor => _armor = 0.6f;
         public Unit() : this(name: "Unknown Unit")
@@ -25,7 +25,7 @@ namespace Homework_Class
         }
         public bool SetDamage(float value)
         {
-            Health = Health - value * Armor;
+            _health = Health - value * Armor;
             if (Health <= 0)
             {
                 return true;
