@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|c:\\users\\andre\\desktop\\reps\\homework class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|c:\\users\\andre\\desktop\\reps\\homework class\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|solutionrelative:unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|c:\\users\\andre\\desktop\\reps\\homework class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Unit.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\Unit.cs",
               "RelativeDocumentMoniker": "Unit.cs",
               "ToolTip": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\Unit.cs*",
               "RelativeToolTip": "Unit.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T08:29:40.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T08:23:42.665Z",
               "EditorCaption": ""
