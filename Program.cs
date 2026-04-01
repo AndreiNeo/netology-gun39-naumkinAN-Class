@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-         var unit = new Unit();
+            var weapon = new Weapon();
+            Console.WriteLine(weapon.Name);
+            var weapon1 = new Weapon("AK47", -2,-7);
+           Console.WriteLine();
         }
     }
 }
