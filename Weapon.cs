@@ -7,54 +7,35 @@ namespace Homework_Class
 {
     public class Weapon
     {
-        private int _minDamage;
-        private int _maxDamage;
+        public Interval DamageRange { get; private set; }
+
         private int _f = 1;
 
-
         public string Name { get; }
-        public int MinDamage { get; private set; }
-        public int MaxDamage { get; private set; }
-        public float Durability { get; } = 1;
+      
+        public float Durability { get; } = 1f;
 
-        public Weapon (string name)
-        {
-            Name = name;
+        public Weapon (string name) 
+        
+       {
+            DamageRange = new Interval (1,10);
         }
-        public Weapon() {
-        Name = "Unknown weapon";
-        }
-        public Weapon(string name, int minDamage, int maxDamage)
+        public Weapon(string name, int minDamage, int maxDamage) : this (name)
         {
-            Name = name;
           SetDamageParams(minDamage, maxDamage);
         }
 
         public void SetDamageParams(int minDamage,int maxDamage)
         {
-            if (minDamage > maxDamage)
-            {
-                Console.WriteLine("Для оружия " + this.Name + " поменяли местами минимальное и макисмальное значение урона");
-                int temp = minDamage;
-                minDamage = maxDamage;
-                maxDamage = temp;
-            }
-            if (minDamage < 1)
-            {
-                minDamage = _f;
-                Console.WriteLine("Минимальное значение урона не может быть меньше " + _f + ", значение минимально урона теперь " + _f);
-            }
-            if (maxDamage < 1)
-            {
-                Console.WriteLine("Максимальное значение урона не может быть равен или меньше " + _f + ", значение максимального урона теперь " + 10);
-                maxDamage = 10;
-            }
-            _minDamage = minDamage;
-            _maxDamage = maxDamage;
+            DamageRange = new Interval(minDamage,maxDamage);
         }
         public int GetDamage()
         {
-            return (_minDamage + _maxDamage) / 2;
+            return (DamageRange.Min + DamageRange.Max) / 2;
+        }
+        public int RandomGetDamage()
+        {
+            return DamageRange.Get();
         }
     }
 }

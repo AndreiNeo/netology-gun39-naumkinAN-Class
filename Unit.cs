@@ -10,14 +10,16 @@ namespace Homework_Class
         private float _armor;
         public string Name { get; }
         public float Health => _health;
-        public int Damage { get; } = 5;
+        public Interval Damage { get; private set; }
         public float Armor => _armor = 0.6f;
-        public Unit() : this(name: "Unknown Unit")
+        public Unit() : this(name: "Unknown Unit",0,5)
         {
         }
-        public Unit(string name)
+        public Unit(string name, int minDamage, int maxDamage)
         {
             Name = name;
+            _health = 100;
+            Damage = new Interval(minDamage, maxDamage);
         }
         public float GetRealHealth()
         {
