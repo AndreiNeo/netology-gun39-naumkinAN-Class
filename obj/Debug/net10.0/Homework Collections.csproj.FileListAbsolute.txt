@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Reps\Homework Class\bin\Debug\net10.0\Homework Collections.exe
+C:\Users\andre\Desktop\Reps\Homework Class\bin\Debug\net10.0\Homework Collections.deps.json
+C:\Users\andre\Desktop\Reps\Homework Class\bin\Debug\net10.0\Homework Collections.runtimeconfig.json
+C:\Users\andre\Desktop\Reps\Homework Class\bin\Debug\net10.0\Homework Collections.dll
+C:\Users\andre\Desktop\Reps\Homework Class\bin\Debug\net10.0\Homework Collections.pdb
+C:\Users\andre\Desktop\Reps\Homework Class\obj\Debug\net10.0\Homework Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Reps\Homework Class\obj\Debug\net10.0\Homework Collections.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Reps\Homework Class\obj\Debug\net10.0\Homework Collections.AssemblyInfo.cs
+C:\Users\andre\Desktop\Reps\Homework Class\obj\Debug\net10.0\Homework Collections.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Reps\Homework Class\obj\Debug\net10.0\Homework Collections.sourcelink.json
+C:\Users\andre\Desktop\Reps\Homework Class\obj\Debug\net10.0\Homework Collections.dll
+C:\Users\andre\Desktop\Reps\Homework Class\obj\Debug\net10.0\refint\Homework Collections.dll
+C:\Users\andre\Desktop\Reps\Homework Class\obj\Debug\net10.0\Homework Collections.pdb
+C:\Users\andre\Desktop\Reps\Homework Class\obj\Debug\net10.0\Homework Collections.genruntimeconfig.cache
+C:\Users\andre\Desktop\Reps\Homework Class\obj\Debug\net10.0\ref\Homework Collections.dll

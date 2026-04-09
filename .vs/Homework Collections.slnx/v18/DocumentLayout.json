@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|c:\\users\\andre\\desktop\\reps\\homework class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A24602A-F322-8566-EC32-6C12403B47A9}|Homework Collections.csproj|c:\\users\\andre\\desktop\\reps\\homework class\\linkedlisttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A24602A-F322-8566-EC32-6C12403B47A9}|Homework Collections.csproj|solutionrelative:linkedlisttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A24602A-F322-8566-EC32-6C12403B47A9}|Homework Collections.csproj|c:\\users\\andre\\desktop\\reps\\homework class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A24602A-F322-8566-EC32-6C12403B47A9}|Homework Collections.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A24602A-F322-8566-EC32-6C12403B47A9}|Homework Collections.csproj|c:\\users\\andre\\desktop\\reps\\homework class\\dictionarytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A24602A-F322-8566-EC32-6C12403B47A9}|Homework Collections.csproj|solutionrelative:dictionarytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A24602A-F322-8566-EC32-6C12403B47A9}|Homework Collections.csproj|c:\\users\\andre\\desktop\\reps\\homework class\\listtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A24602A-F322-8566-EC32-6C12403B47A9}|Homework Collections.csproj|solutionrelative:listtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LinkedListTask.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\LinkedListTask.cs",
+              "RelativeDocumentMoniker": "LinkedListTask.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\LinkedListTask.cs",
+              "RelativeToolTip": "LinkedListTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T12:49:08.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DictionaryTask.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\DictionaryTask.cs",
+              "RelativeDocumentMoniker": "DictionaryTask.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\DictionaryTask.cs",
+              "RelativeToolTip": "DictionaryTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:09:52.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListTask.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\ListTask.cs",
+              "RelativeDocumentMoniker": "ListTask.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\ListTask.cs",
+              "RelativeToolTip": "ListTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T08:56:57.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T08:23:42.665Z",
               "EditorCaption": ""
