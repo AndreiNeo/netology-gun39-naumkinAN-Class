@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|c:\\users\\andre\\desktop\\reps\\homework class\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|solutionrelative:unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|c:\\users\\andre\\desktop\\reps\\homework class\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|solutionrelative:weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|c:\\users\\andre\\desktop\\reps\\homework class\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|solutionrelative:dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|c:\\users\\andre\\desktop\\reps\\homework class\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25128B-33BF-72BA-DE06-7D944A2F07B7}|Homework Class.csproj|solutionrelative:unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Dungeon.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\Dungeon.cs",
               "RelativeDocumentMoniker": "Dungeon.cs",
@@ -38,34 +38,31 @@
               "RelativeToolTip": "Dungeon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T13:02:13.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-03T13:02:13.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Weapon.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\Weapon.cs",
               "RelativeDocumentMoniker": "Weapon.cs",
               "ToolTip": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\Weapon.cs",
               "RelativeToolTip": "Weapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T05:36:50.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T05:36:50.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Unit.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\Unit.cs",
               "RelativeDocumentMoniker": "Unit.cs",
               "ToolTip": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\Unit.cs",
               "RelativeToolTip": "Unit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T08:29:40.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T08:29:40.068Z"
             },
             {
               "$type": "Document",

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\Homework Class.csproj",
-      "projectName": "Homework Class",
-      "projectPath": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\Homework Class.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\Homework Collections.csproj",
+      "projectName": "Homework Collections",
+      "projectPath": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\Homework Collections.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\andre\\Desktop\\Reps\\Homework Class\\obj\\",
       "projectStyle": "PackageReference",
