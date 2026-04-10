@@ -13,3 +13,6 @@ C:\Users\andre\Desktop\Reps\Homework Class\obj\Debug\net10.0\refint\Homework Col
 C:\Users\andre\Desktop\Reps\Homework Class\obj\Debug\net10.0\Homework Collections.pdb
 C:\Users\andre\Desktop\Reps\Homework Class\obj\Debug\net10.0\Homework Collections.genruntimeconfig.cache
 C:\Users\andre\Desktop\Reps\Homework Class\obj\Debug\net10.0\ref\Homework Collections.dll
+C:\Users\andre\Desktop\Reps\Homework Class\bin\Debug\net10.0\xunit.assert.dll
+C:\Users\andre\Desktop\Reps\Homework Class\obj\Debug\net10.0\Homework Collections.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Reps\Homework Class\obj\Debug\net10.0\Homework.5A5D2FB9.Up2Date
